@@ -1,0 +1,2 @@
+a simple linux script to run hello world sentence
+it takes 2 arguments name of person and the day of the week
